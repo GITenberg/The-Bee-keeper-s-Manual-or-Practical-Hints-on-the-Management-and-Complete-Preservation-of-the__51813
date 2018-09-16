@@ -1,0 +1,29 @@
+_repo: The-Bee-keeper-s-Manual-or-Practical-Hints-on-the-Management-and-Complete-Preservation-of-the__51813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Henry
+    birthdate: 1787
+    deathdate: 1869
+    gutenberg_agent_id: '49149'
+    url: http://www.gutenberg.org/2009/agents/49149
+description: ''
+gutenberg_issued: '2016-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bee culture'
+- !lcsh 'Beekeepers'
+- !lcsh 'Bees'
+- !lcsh 'Beehives'
+- !lcsh 'Honeybee'
+- !lcc 'SF'
+- GITenberg
+title: "The Bee-keeper's Manual\r\nor Practical Hints on the Management and Complete\
+  \ Preservation of the Honey-bee."
+url: http://www.gutenberg.org/ebooks/51813
